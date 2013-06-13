@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory
+        android:title="@string/settings_category_1">
+        <ListPreference
+            android:title="@string/settings_list_title_1"
+            android:summary="@string/settings_list_summary_1"
+            android:key="interval"
+            android:entries="@array/intervalEntries"
+            android:entryValues="@array/intervalEntryValues" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

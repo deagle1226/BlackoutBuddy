@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dataequity_branding/!svn/ver/7/trunk/LocationDE/src/com/dataequity/locpoll
+END
+LocationPollerResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dataequity_branding/!svn/ver/7/trunk/LocationDE/src/com/dataequity/locpoll/LocationPollerResult.java
+END
+InvalidParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dataequity_branding/!svn/ver/7/trunk/LocationDE/src/com/dataequity/locpoll/InvalidParameterException.java
+END
+LocationPollerParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dataequity_branding/!svn/ver/7/trunk/LocationDE/src/com/dataequity/locpoll/LocationPollerParameter.java
+END
+LocationPollerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dataequity_branding/!svn/ver/7/trunk/LocationDE/src/com/dataequity/locpoll/LocationPollerService.java
+END
+WakefulThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dataequity_branding/!svn/ver/7/trunk/LocationDE/src/com/dataequity/locpoll/WakefulThread.java
+END
+LocationPoller.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dataequity_branding/!svn/ver/7/trunk/LocationDE/src/com/dataequity/locpoll/LocationPoller.java
+END

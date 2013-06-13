@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Blackout Buddy</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Blackout Buddy</string>
+    <string name="settings_category_1">Location Settings</string>
+    <string name="settings_list_title_1">Interval Length</string>
+    <string name="settings_list_summary_1">Choose how often your location gets polled</string>
+
+</resources>
